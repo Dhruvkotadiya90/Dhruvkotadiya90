@@ -81,6 +81,8 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Dhruvkotadiya90&theme=aura&hide_border=false" width="60%" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dhruvkotadiya90&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" />
 </p>
 
