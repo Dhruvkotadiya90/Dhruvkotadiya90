@@ -65,15 +65,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dhruvkotadiya90&theme=aura&hide_border=false" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dhruvkotadiya90&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Dhruvkotadiya90&theme=aura&hide_border=false" width="60%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dhruvkotadiya90&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" />
 </p>
 
 ---
 
 ### 📈 Contribution Activity
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruvkotadiya90&theme=tokyo-night)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
