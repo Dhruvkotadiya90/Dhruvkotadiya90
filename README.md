@@ -72,11 +72,8 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Dhruvkotadiya90&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
+### 📈 Contribution Activity
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruvkotadiya90&theme=tokyo-night)
 
 ---
 
