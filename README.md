@@ -7,13 +7,13 @@
 
 <p align="center">
 <a href="mailto:dhruvkotadiya90@zohomail.in">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=green" />
 </a>
 <a href="https://instagram.com/dhruv_16_05">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=red" />
 </a>
 <a href="https://linkedin.com/in/dhruvkotadiya90">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=blue" />
 </a>
 </p>
 
