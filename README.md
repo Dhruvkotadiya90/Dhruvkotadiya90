@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">💻 Java & Full Stack Developer | 🚀 Building Real-World Projects</h3>
+<h3 align="center">💻 Java Enthusiast | 🚀 Building Real-World Projects</h3>
 
 ---
 
