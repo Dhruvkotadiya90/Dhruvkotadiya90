@@ -3,6 +3,15 @@
 
 ---
 
+## 🧑‍💻 About Me
+- 🎓 Diploma in Computer Engineering (GTU) — CGPA: **9.33**
+- 💡 Passionate about **Backend Development**
+- 🔭 Building **real-world Java & Full Stack projects**
+- ⚡ Interested in **REST APIs, scalable systems, and clean architecture**
+- 🚀 Goal: Become a **top-tier software developer**
+
+---
+
 # 🌐 Socials:
 <p align="center">
 <a href="mailto:dhruvkotadiya90@zohomail.in">
