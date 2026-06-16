@@ -99,3 +99,17 @@
 
 ### 📈 Contribution Activity
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruvkotadiya90&theme=tokyo-night)
+
+
+---
+
+## 📅 Commit Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvkotadiya90&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Dhruvkotadiya90&theme=tokyo-night&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Dhruvkotadiya90&show_icons=true&theme=tokyo-night&hide_border=true" width="48%" />
+</p>
