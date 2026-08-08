@@ -4,6 +4,7 @@
 ---
 
 ## 🧑‍💻 About Me
+- 🎓 Bachelor's Of Engineering(GTU) — Ongoing
 - 🎓 Diploma in Computer Engineering (GTU) — CGPA: **9.33**
 - 💡 Passionate about **Backend Development**
 - 🔭 Building **real-world Java & Full Stack projects**
